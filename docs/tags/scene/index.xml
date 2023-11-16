@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Мой новый сайт Hugo</title>
+    <link>https://ExcLuZiV.github.io/tags/scene/</link>
+    <description>Recent content in scene on Мой новый сайт Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Sep 2023 11:14:48 -0400</lastBuildDate>
+    <atom:link href="https://ExcLuZiV.github.io/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Достижения в учёбе</title>
+      <link>https://ExcLuZiV.github.io/en/post/chapter-4/</link>
+      <pubDate>Mon, 11 Sep 2023 11:14:48 -0400</pubDate>
+      <guid>https://ExcLuZiV.github.io/en/post/chapter-4/</guid>
+      <description>Как то раз я занял 32 место в русском медвежонке</description>
+    </item>
+  </channel>
+</rss>
